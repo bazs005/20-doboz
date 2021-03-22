@@ -1,0 +1,141 @@
+.container1{
+    width: 1300px;
+    height: 200px;
+    border: solid green 2px;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    margin:auto;
+    margin-top: 40px;
+  }
+
+        .Blue1{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue2{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue3{ 
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue4{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue5{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue6{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue7{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue8{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue9{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;
+            background-color: blue;
+        }
+        .Blue10{
+            border: teal solid 4px;
+            width: 100px;
+            height:100px;background-color: blue;
+        }
+.container2{
+    width: 1300px;
+    height: 200px;
+    border: solid green 2px;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    margin:auto;
+    margin-top: 20px;
+    background-color: orange;
+}
+    .purple1{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple2{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple3{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple4{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple5{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple6{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple7{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple8{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple9{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
+    .purple10{
+        
+        width: 100px;
+        height:100px;
+        background-color:purple;
+    }
